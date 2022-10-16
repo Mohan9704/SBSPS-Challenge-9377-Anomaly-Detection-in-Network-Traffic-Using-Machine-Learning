@@ -141,7 +141,7 @@ This file applies 7 machine learning algorithms to "all_data.csv" file 10 times 
 The last run time of this file was recorded as 18561 seconds
 
 
-# Course completion badges earned:
+# Course completion badges :
 #
  ╰┈➤Getting Started With Enterprise-Grade AI:
  https://www.credly.com/badges/34b6670e-ec78-4c65-b69e-04f2472e55ca/public_url
